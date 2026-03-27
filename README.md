@@ -101,3 +101,8 @@ Auto-retraining of model with new data
 Integration with cloud-hosted API (e.g., Render, Heroku)
 Add more features like learning disabilities, family income, and peer influence for better predictions
 Improve Flutter UI with charts and historical score comparisons
+
+
+⚠️ Note from the Author
+
+I am Morsal Hakim, a student living in Afghanistan. Due to the ongoing situation, including unstable internet access, I was unable to create the video demo for this project. I sincerely apologize for this and hope you can kindly excuse it this time. I will ensure to complete all parts fully in the future.
